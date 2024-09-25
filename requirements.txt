@@ -1,7 +1,8 @@
 seaborn
 pandas 
 numpy
-os
 streamlit
-sklearn
-matplotlib.pyplot
+sklearn 
+matplotlib
+plotly
+os
